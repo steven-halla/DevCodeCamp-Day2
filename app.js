@@ -1,5 +1,5 @@
 for (let i = 0; i < 5; i++) {
-  console.log('hello!')
+  console.log('hello!');
 }
 
 let countdown = 0;
@@ -19,9 +19,6 @@ while (countup >0) {
   console.log(countup);
   countup--;
 }
-
-
-
 
 for (let i = prompt(); i > 0; i--){
   console.log("devcodecamp");
