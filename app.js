@@ -1,3 +1,6 @@
+// WHEN STARTING 2 prompts will pop up do a number followed by inputing hello kitty
+
+
 for (let i = 0; i < 5; i++) {
   console.log('hello!');
 }
